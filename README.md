@@ -3,7 +3,7 @@ network request protocol in the JSON format
 
 ## Installation
 ```
-go get github.com/skvdmt/nrp
+go get github.com/simpledevdima/nrp
 ```
 
 ## Example
@@ -12,7 +12,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/skvdmt/nrp"
+	"github.com/simpledevdima/nrp"
 )
 
 type Info struct {
